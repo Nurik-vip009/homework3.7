@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NavGraph</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alive">Alive</string>
+    <string name="rick_sanchez">Rick Sanchez</string>
+    <string name="sergey_brother">Sergey brother</string>
+    <string name="full_stack_dev">Full stack dev</string>
+    <string name="daria">Daria</string>
+    <string name="todo">TODO</string>
+    <string name="my_little_happiness">My little happiness</string>
+    <string name="dob_nurik">Dobрый Nurik</string>
+    <string name="des">Мы должны мыми, а они оними</string>
+    <string name="desc">Назову сына Рамисом</string>
+    <string name="love">Daria</string>
+    <string name="happiness">My LITTLE Happiness</string>
+    <string name="dobr_nurik">Dobrый Nurik</string>
+    <string name="ramis">Назову сына Рамисом</string>
+    <string name="arina">Arina</string>
+    <string name="ux_ui_designer">UX/UI designer</string>
+</resources>
